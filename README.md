@@ -6,6 +6,11 @@ Accuracy= 0.9863481228668942
 
 It is slower than Naive Bayes classifier
 
+1% dataset , Kernel= "linear"
+raining time: 0.107 s,
+prediction time: 1.084 s,
+Accuracy= 0.8959044368600683
+
 1% dataset , Kernel= "rbf"
 
 training time: 0.118 s, prediction time: 1.217 s
