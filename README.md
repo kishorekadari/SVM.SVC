@@ -1,5 +1,5 @@
-# SVM.SVC
-
+# SVM
+For SVM.SVC
 training time: 176.133 s
 
 training time: 17.852 s
