@@ -16,6 +16,10 @@ Accuracy= 0.8959044368600683
 training time: 0.118 s, prediction time: 1.217 s
 Accuracy= 0.8981797497155859
 
+As Cis increased from 1 to 10 the accuracy is improved; training time: 0.119 s
+prediction time: 1.247 s
+0.9277588168373151, Decision Boundary has become less complex
+
 For svm.Nusvc:
 training time: 1073.65 s,
 prediction time: 55.386 s,
