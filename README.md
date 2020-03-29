@@ -24,3 +24,11 @@ training time: 0.539 s
 training time: 0.03 s
 
 Accuracy= 0.9903299203640501
+
+linear_model.SGDClassifier:
+
+training time: 1.155 s
+
+training time: 0.013 s
+
+0.9863481228668942
